@@ -12,6 +12,7 @@ Dokumen ini merangkum seluruh aset visual premium yang telah di-generate untuk m
 > **Instruksi**: Gunakan file `.final.png` di bawah ini untuk diunggah langsung ke Fiverr.
 
 ### Thumbnail 1 — SaaS Authority (Hero) 🏔️
+
 - **Project**: Margin Pro
 - **File**: `fiverr_gig_1_saas_hero.final.png`
 - **Specs**: 1280x769 | Watermarked | Landscape
@@ -21,6 +22,7 @@ Dokumen ini merangkum seluruh aset visual premium yang telah di-generate untuk m
 ---
 
 ### Thumbnail 2 — Institutional Proof 🏫
+
 - **Project**: Aksesekolah
 - **File**: `fiverr_gig_2_institutional_proof.final.png`
 - **Specs**: 1280x769 | Watermarked | Landscape
@@ -30,6 +32,7 @@ Dokumen ini merangkum seluruh aset visual premium yang telah di-generate untuk m
 ---
 
 ### Thumbnail 3 — Engineering Depth (DevOps) ⚙️
+
 - **Project**: Awan CLI
 - **File**: `fiverr_gig_3_devops_depth.final.png`
 - **Specs**: 1280x769 | Watermarked | Landscape
@@ -40,11 +43,12 @@ Dokumen ini merangkum seluruh aset visual premium yang telah di-generate untuk m
 
 ## 📂 File Index (Final Delivery)
 
-| Nama File | Status | Dimensi |
-| :--- | :--- | :--- |
-| `fiverr_gig_1_saas_hero.final.png` | **Ready** | 1280x769 |
+| Nama File                                    | Status    | Dimensi  |
+| :------------------------------------------- | :-------- | :------- |
+| `fiverr_gig_1_saas_hero.final.png`           | **Ready** | 1280x769 |
 | `fiverr_gig_2_institutional_proof.final.png` | **Ready** | 1280x769 |
-| `fiverr_gig_3_devops_depth.final.png` | **Ready** | 1280x769 |
+| `fiverr_gig_3_devops_depth.final.png`        | **Ready** | 1280x769 |
 
 ---
-*Processed using ImageMagick on Debian Host.*
+
+_Processed using ImageMagick on Debian Host._

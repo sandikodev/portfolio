@@ -1,4 +1,5 @@
 # 🔍 Fiverr Gig SEO Strategy
+
 **Untuk**: sandikodev | PT Koneksi Jaringan Indonesia
 
 ---
@@ -6,16 +7,19 @@
 ## 🏷️ GIG TITLE (125 karakter maks)
 
 ### Primary (Recommended):
+
 ```
 I will build a scalable Next.js or SvelteKit web app with production-ready architecture
 ```
 
 ### Alternative A (lebih spesifik):
+
 ```
 I will develop a fullstack SaaS web application using Next.js, SvelteKit, or Astro
 ```
 
 ### Alternative B (lebih direct):
+
 ```
 I will build your modern web application starter with clean production-ready codebase
 ```
@@ -26,10 +30,10 @@ I will build your modern web application starter with clean production-ready cod
 
 ## 📂 CATEGORY & SUBCATEGORY
 
-| Field | Pilihan |
-| :--- | :--- |
-| **Category** | Programming & Tech |
-| **Subcategory** | Web Development |
+| Field            | Pilihan                |
+| :--------------- | :--------------------- |
+| **Category**     | Programming & Tech     |
+| **Subcategory**  | Web Development        |
 | **Service Type** | Full Stack Development |
 
 ---
@@ -51,8 +55,9 @@ fullstack developer
 ## 🗂️ GIG METADATA
 
 ### Search Tags (tambahan di profil):
+
 ```
-react developer, typescript developer, bun runtime, 
+react developer, typescript developer, bun runtime,
 hono api, drizzle orm, turso database, astro developer,
 edge deployment, vercel, cloudflare pages
 ```
@@ -64,8 +69,8 @@ edge deployment, vercel, cloudflare pages
 ```
 🚀 SCALABLE WEB APP ARCHITECTURE — BUILT FROM REAL PRODUCTION EXPERIENCE
 
-You're not getting a random tutorial project. You're getting architecture 
-from someone who has shipped real SaaS products, institutional platforms, 
+You're not getting a random tutorial project. You're getting architecture
+from someone who has shipped real SaaS products, institutional platforms,
 and automation tools used in production.
 
 ────────────────────────────────────────
@@ -106,7 +111,7 @@ PREMIUM — Production Architecture
 
 💬 MESSAGE ME BEFORE ORDERING
 
-Every project is different. Let's talk about your requirements first so 
+Every project is different. Let's talk about your requirements first so
 I can recommend the right approach for your specific use case.
 
 I respond within a few hours (WIB / UTC+7).
@@ -116,11 +121,11 @@ I respond within a few hours (WIB / UTC+7).
 
 ## 💰 PRICING STRATEGY
 
-| Package | Harga (USD) | Deliverable |
-| :--- | :--- | :--- |
-| **Basic** | $35 | Project scaffold + Routing + DB |
-| **Standard** | $75 | Basic + API + Auth + UI + Deploy |
-| **Premium** | $150 | Standard + CI/CD + Konsultasi |
+| Package      | Harga (USD) | Deliverable                      |
+| :----------- | :---------- | :------------------------------- |
+| **Basic**    | $35         | Project scaffold + Routing + DB  |
+| **Standard** | $75         | Basic + API + Auth + UI + Deploy |
+| **Premium**  | $150        | Standard + CI/CD + Konsultasi    |
 
 > 💡 **Catatan Harga**: Mulai kompetitif di Basic untuk mendapat review pertama. Naikkan harga setelah 5+ review masuk.
 
@@ -128,27 +133,32 @@ I respond within a few hours (WIB / UTC+7).
 
 ## ⏱️ DELIVERY TIME
 
-| Package | Waktu |
-| :--- | :--- |
-| Basic | 3 hari |
+| Package  | Waktu  |
+| :------- | :----- |
+| Basic    | 3 hari |
 | Standard | 5 hari |
-| Premium | 7 hari |
+| Premium  | 7 hari |
 
 ---
 
 ## ❓ FAQ (Isi di Gig FAQ Section)
 
 **Q: What frameworks do you support?**
+
 > A: I primarily work with Next.js 15, SvelteKit 2, Astro 5, and React 18. I can also work with your existing tech stack.
 
 **Q: Do you provide source code?**
+
 > A: Yes, all packages include full source code delivered via GitHub private repository.
 
 **Q: Can you work with my existing project?**
+
 > A: Absolutely. I offer code review and architecture refactoring as part of the Premium package. Message me first to assess scope.
 
 **Q: Do you offer revisions?**
+
 > A: Yes. Basic includes 1 revision, Standard 2 revisions, Premium unlimited revisions within scope.
 
 ---
-*SEO document prepared by Antigravity Technical Assistant.*
+
+_SEO document prepared by Antigravity Technical Assistant._

@@ -20,6 +20,7 @@ fiverr-gig-prep/
 ## 📋 Checklist Progress
 
 ### ✅ Selesai
+
 - [x] Analisa 17 proyek ekosistem (tech stack + deskripsi)
 - [x] Generate thumbnail Fiverr (3 gambar utama)
 - [x] Generate visual ekosistem (3 gambar pendukung)
@@ -28,6 +29,7 @@ fiverr-gig-prep/
 - [x] Konten PDF Architecture — Lihat `reports/ARCHITECTURE_PDF_CONTENT.md`
 
 ### 🔄 Next Steps (Persiapan Final)
+
 - [ ] **Convert Markdown ke PDF** — Gunakan Markdown editor (seperti Obsidian atau VS Code Export) untuk mengubah konten di folder `reports/` menjadi file PDF profesional.
 - [ ] **Rekam Video Gig** — Script sudah siap di `reports/VIDEO_SCRIPT.md`.
 - [ ] **Publish Gig** — Gunakan data dari `reports/GIG_SEO.md` dan gambar dari `assets/images/`.
@@ -50,11 +52,12 @@ fiverr-gig-prep/
 
 ## 🎯 Gallery Strategy
 
-| Slot | Project | Pesan |
-| :--- | :--- | :--- |
-| **Image 1 (Hero)** | Margin Pro | SaaS Architect |
-| **Image 2** | Aksesekolah | Institutional Builder |
-| **Image 3** | Awan CLI | DevOps Engineer |
+| Slot               | Project     | Pesan                 |
+| :----------------- | :---------- | :-------------------- |
+| **Image 1 (Hero)** | Margin Pro  | SaaS Architect        |
+| **Image 2**        | Aksesekolah | Institutional Builder |
+| **Image 3**        | Awan CLI    | DevOps Engineer       |
 
 ---
-*Dikelola oleh Antigravity Technical Assistant.*
+
+_Dikelola oleh Antigravity Technical Assistant._
